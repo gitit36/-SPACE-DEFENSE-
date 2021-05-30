@@ -1,5 +1,7 @@
 # SPACE-DEFENSE
 
+A simple shooting game made using Processing & Arduino (see picture attached).
+
 The development of the game consisted of three main milestones with the respective order of priority:
 
 1. Processing game design
