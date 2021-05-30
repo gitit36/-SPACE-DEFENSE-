@@ -14,3 +14,10 @@ With this problem and user experience in mind, I decided to use push buttons. I 
 
 ![image](https://user-images.githubusercontent.com/24204239/120115830-a86e7b00-c196-11eb-8f38-45dc9a260844.png)
 
+In terms of the design, I tried to make it sort of retro. The song, the font, the color, the spaceship have all been designed in a way that it makes you feel nostalgic (at least for me). The sound track of the game is from a 1996 arcade game called “Out Run”, which is a car racing game but it also suits well in my game in my opinion.
+
+Of course, a simple set of instructions are displayed before the game is initiated with the game title on top. I did not add any extra effects on this part because it is retro. To talk about how the game is run, the player can maneuver the starship left and right in order to shoot bullets at the falling “asteroids” that are polygons. I have limited the maneuver to left and right for the reason mentioned earlier. If a player collides with an asteroid he/she will lose 2 health points. If an asteroid collides with the earth, the health will also decrease by 10, as it is a fatal and collateral damage to the global community. If a player successfully hits an asteroid with a bullet, the asteroid will vanish and will be deducted from the total number of asteroids in the current level. There will be earth-looking items falling too and you should shoot at it to get 10+ on your health. Your level goes up when you eliminate all the asteroids in the level. Each level you go up, there will be 1 less earth item and 2 more asteroids. Without further ado, here’s a demo video.
+
+https://youtu.be/xzzrJO7NhPk
+
+
